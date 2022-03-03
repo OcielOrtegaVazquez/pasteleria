@@ -1,0 +1,87 @@
+body {
+    background-image: url(../assets/img/fondoPasteleria.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    transition: all 3s ease-out;
+}
+
+.fade-in-image {
+    animation: fadeIn 3s;
+    -webkit-animation: fadeIn 3s;
+    -moz-animation: fadeIn 3s;
+    -o-animation: fadeIn 3s;
+    -ms-animation: fadeIn 3s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-ms-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
+/* Seccion Main CARDS */
+
+.main-section {
+    margin: 0 auto;
+    margin-top: auto;
+    padding: 0;
+}
+
+.modal-content {
+    background-color: #434e5a;
+    opacity: 0.8;
+    padding: 0 18px;
+    border-radius: 10px;
+}
+
+.title-img {
+    margin-top: -20px;
+    margin-bottom: 50px;
+}
+
+.card-title {
+    margin-top: -60px;
+}
