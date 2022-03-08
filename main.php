@@ -8,7 +8,7 @@
                             <img src="assets/img/menu/menu.png" width="100%" class="title-img" alt="menuImg">
                             <div class="card-body">
                                 <h5 class="card-title">Menú</h5>
-                                <p class="card-text">Aquí podrás encontrar los ingredientes de primera calidad con los que se eleboran nuestros Pasteles.</p>
+                                <p class="card-text">Aquí podrás encontrar los ingredientes  con los que se eleboran nuestros Pasteles.</p>
                                 <a href="menu.php" class="btn btn-primary">Ingresar</a>
                             </div>
                         </div>

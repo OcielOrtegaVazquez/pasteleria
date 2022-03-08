@@ -9,6 +9,7 @@
     <Link rel="stylesheet" href="css/style.css">
     </Link>
     <link rel="stylesheet" href="assets/bootstrap-5/css/bootstrap.min.css">
+    <script src="assets/bootstrap-5/js/bootstrap.min.js"></script>
 </head>
 
 <body>
