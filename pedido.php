@@ -91,7 +91,8 @@ include("header.php");
                             <br>
 
                             <button class="btn btn-danger" type="reset" style="margin-bottom: 2rem;" style="margin-right: 2rem;" >Empezar de nuevo</button>
-                            <button class="btn btn-primary" type="submit" style="margin-bottom: 2rem;" style="margin-left: 2rem;">Arma Tu Pastel ¡¡¡</button>
+                            <button class="btn btn-success" type="submit" style="margin-bottom: 2rem;" style="margin-left: 2rem;">Arma Tu Pastel ¡¡¡</button>
+                            <a href="index.php" class="btn btn-primary" style="margin-bottom: 2rem;" style="margin-left: 2rem;">Regresar</a>
                         </form>
                     </div>
                 </div>
